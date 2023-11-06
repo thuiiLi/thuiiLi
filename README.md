@@ -1,4 +1,12 @@
 ### Hi there 👋
+This is Thuii.Li.
+
+### Some info about me
+🌱 I’m currently learning Accounting at Huazhong University of Science and Technology.
+
+My research interests include FinTech, NLP, and Banking Contracts.
+
+Please feel free to contact with me : thuii.li@foxmail.com
 
 <!--
 **thuiiLi/thuiiLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
